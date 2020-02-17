@@ -1,5 +1,5 @@
 # MicroprocessorWithArduino
-  It is intended to design a microprocessor based on a Harvard architecture, using Arduino code, with a certain set of instructions.
+	It is intended to design a microprocessor based on a Harvard architecture, using Arduino code, with a certain set of instructions.
   To achieve this objective, it is first necessary to declare internal records (R0, R1, A and PC) and Carry and Zero flags 
 that belong to the microprocessor, whose functionality is to store data in memory and the indexes of that memory, for the records,
 and show whether the A value overlapped the maximum allowed by the number of bits set for the microprocessor, in the case of 
